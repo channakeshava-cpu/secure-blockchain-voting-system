@@ -1,6 +1,5 @@
-# Block-Chain Based Voting System
+Secure Blockchain-Based Voting System using Ethereum & MetaMask
 
-This project is blockchain based voting dapp created in React and Solidity.
 
 ## Project Description
 
